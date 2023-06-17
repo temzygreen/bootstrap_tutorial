@@ -1,0 +1,28 @@
+/* .container{
+    background-color: #ccc;
+}
+
+    [class*='col']{
+    background-color: #ccc;
+    border: 1px solid #777
+    } */
+
+.marque img{
+    width: 150px;
+    height: 150px;
+    /* padding: 20px; */
+}
+
+.navbar{
+    background-color: #592600;
+}
+
+.nav-link{
+    color: #ffffff !important;
+}
+
+.navbar-brand img{
+    width: 9opx !important;
+    height: 35px;
+}
+
